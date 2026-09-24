@@ -1,0 +1,11 @@
+langchain>=1.4
+langchain-text-splitters>=1.1
+langgraph>=1.2
+langsmith>=0.14
+langchain-google-genai>=4.4
+langchain-voyageai>=0.4
+pypdf>=5
+python-dotenv>=1.0
+notebook>=7
+ipykernel>=6.29
+numpy>=1.26          # used by the in-memory vector store

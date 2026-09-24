@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+data/raw/
+data/memory/
+# Built indexes are reproducible with `python -m novel_agent.ingest`; commit them only if you want
+# to hand attendees a pre-built index.
+data/index/
